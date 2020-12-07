@@ -84,7 +84,7 @@ function setup() {
 
 function draw() {
   
-  background(180);
+  background(153,217,236);
   //displaying score
   text("Score: "+ score, width-100,50);
   
